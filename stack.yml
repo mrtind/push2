@@ -7,3 +7,9 @@ functions:
     lang: go
     handler: ./push2
     image: martindekov/push2:latest
+
+
+
+
+
+
