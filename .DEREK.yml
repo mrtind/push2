@@ -1,7 +1,9 @@
 maintainers:
  - alexellis
  - martindekov
-
+ - LucasRoesler
+ - Waterdrips
+ 
 features:
  - comments
  - dco_check
